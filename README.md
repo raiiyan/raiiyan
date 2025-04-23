@@ -60,7 +60,8 @@
 
 - 🎸 I’m a **rock and metal music lover**, always vibing with guitars and deep lyrics  
 - 📸 Passionate about **photography**, capturing moments and aesthetics whenever I can  
-- 🧑‍💻 Always eager to learn new tools, collaborate with developers, and build cool stuff
+- 💻 Deeply in love with **technology** — always learning, tinkering, and building cool digital things  
+- 🧑‍💻 Always eager to learn new tools, collaborate with developers, and build awesome stuff
 
 ---
 
@@ -68,6 +69,13 @@
 
 > Check out my work here:  
 🔗 **[https://raiyan-hossain.vercel.app](https://raiyan-hossain.vercel.app)**
+
+---
+
+## 📸 Photography Portfolio
+
+> Follow my photography journey at:  
+📷 **[Instagram: @pix.elchronicles](https://www.instagram.com/pix.elchronicles)**
 
 ---
 
